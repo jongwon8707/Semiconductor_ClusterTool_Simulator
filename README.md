@@ -71,7 +71,7 @@ Outputs stored in `runs/`:
 
 ### 2. Evaluation & Comparison
 
-To reproduce the comparative analysis between DRL agents and rule-based heuristics (Random, Rule 1, Rule 2, Rule 3) as presented in the paper (e.g., boxplots):
+To reproduce the comparative analysis between DRL agents and rule-based heuristics (Random, Rule 1, Rule 2, Rule 3) as presented in the paper:
 
 1. Open `DQN_2.py`
 2. Locate the `if __name__ == "__main__":` block at the bottom.
