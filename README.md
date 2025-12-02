@@ -69,7 +69,7 @@ Outputs stored in `runs/`:
 - **Charts:** reward curves, epsilon decay, loss curves (`*.png`)  
 - **Data:** exported metrics (`*_chart_data.csv`, `*_validation_data.csv`)
 
-### 2. Evaluation & Comparison (Paper Reproduction)
+### 2. Evaluation & Comparison
 
 To reproduce the comparative analysis between DRL agents and rule-based heuristics (Random, Rule 1, Rule 2, Rule 3) as presented in the paper (e.g., boxplots):
 
